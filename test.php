@@ -1,8 +1,9 @@
 <?php
 
 $a = 5;
+$b = 6;
 
-echo "Square of ". $a ." is ". ($a*$a);
+echo "Product of ". $a ." and ". $b ." is ". ($a * $b);
 
 ?>
 
